@@ -39,6 +39,6 @@ def encode_from_scratch(to_encode):
     encoded = encoded + "00"
     return encoded
 
-def clear_from_scratch():
+def clear_from_scratch(joke):
     global encoded
     encoded = ''
