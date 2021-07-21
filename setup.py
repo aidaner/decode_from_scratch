@@ -18,7 +18,7 @@ setup(
     keywords = "scratch server",
     url = "https://github.com/aidaner/decode_from_scratch",
     packages=['decode_from_scratch'],
-    long_description=read('README'),
+    long_description= ('to use in projects'),
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
