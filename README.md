@@ -1,4 +1,5 @@
 ## decode from scratch
+## project dead as this is useless
 hello! this is a package where you can convert this
 
     22252249301819294919294911492815112249301819241700
